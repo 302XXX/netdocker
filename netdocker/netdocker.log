@@ -1,0 +1,93 @@
+
+2026-06-01 18:56:53,301 [INFO] Системный трей запущен
+2026-06-01 19:22:40,756 [INFO] Системный трей запущен
+2026-06-04 19:06:51,155 [INFO] Системный трей запущен
+2026-06-04 19:07:43,042 [INFO] IPv4 DNS UDP запущен на 127.0.0.1:53
+2026-06-04 19:07:43,042 [INFO] IPv4 DNS TCP запущен на 127.0.0.1:53
+2026-06-04 19:07:43,044 [INFO] IPv6 DNS UDP запущен на ::1:53
+2026-06-04 19:07:43,045 [INFO] IPv6 DNS TCP запущен на ::1:53
+2026-06-04 19:07:43,045 [INFO] Активный профиль UDP: 111.88.96.50 / 111.88.96.51
+2026-06-04 19:07:43,045 [INFO] Активный профиль IPv6: 2a00:ab00:1233:26::50 / 2a00:ab00:1233:26::51
+2026-06-04 19:07:43,045 [INFO] Активный DNS-профиль: xbox-dns.ru
+2026-06-04 19:07:43,045 [INFO] Локальный DNS слушает запросы клиентов по UDP и TCP
+2026-06-04 19:07:43,087 [INFO] [system DNS IPv6 2001:4860:4860::8888] google.com AAAA → rcode=NOERROR, answer=4, auth=0, add=0, AAAA 2a00:1450:4010:c20::71; AAAA 2a00:1450:4010:c20::64; AAAA 2a00:1450:4010:c20::65; AAAA 2a00:1450:4010:c20::66
+2026-06-04 19:07:43,825 [INFO] [system DNS IPv4 8.8.8.8] google.com A → rcode=NOERROR, answer=6, auth=0, add=0, A 64.233.163.139; A 64.233.163.138; A 64.233.163.100; A 64.233.163.113 ...
+2026-06-04 19:07:44,398 [INFO] set_dns_to_localhost: 'OK:\nERR:Ethernet: ЌҐ г¤\xa0Ґвбп \xad\xa0©вЁ Ї\xa0а\xa0¬Ґва, б®®вўҐвбвўгойЁ© Ё¬Ґ\xadЁ Ї\xa0а\xa0¬Ґва\xa0 "AddressFamily".'
+2026-06-04 19:07:44,398 [WARNING] Автопереключение DNS не удалось: Не удалось: 
+2026-06-04 19:07:46,886 [INFO] [system DNS IPv4 8.8.8.8] yandex.ru A → rcode=NOERROR, answer=3, auth=0, add=0, A 77.88.44.55; A 5.255.255.77; A 77.88.55.88
+2026-06-04 19:07:46,890 [INFO] [system DNS IPv6 2001:4860:4860::8888] yandex.ru AAAA → rcode=NOERROR, answer=1, auth=0, add=0, AAAA 2a02:6b8:a::a
+2026-06-04 19:07:47,070 [INFO] [system DNS IPv4 8.8.8.8] xbox-dns.ru A → rcode=NOERROR, answer=1, auth=0, add=0, A 111.88.96.55
+2026-06-04 19:07:47,072 [INFO] [system DNS IPv6 2001:4860:4860::8888] xbox-dns.ru AAAA → rcode=NOERROR, answer=2, auth=0, add=0, AAAA 2a00:ab00:1233:26::51; AAAA 2a00:ab00:1233:26::50
+2026-06-04 19:07:49,515 [INFO] [system DNS IPv6 2001:4860:4860::8888] chat.deepseek.com AAAA → rcode=NOERROR, answer=1, auth=1, add=0, CNAME d3bbv8sr76az5s.cloudfront.net.
+2026-06-04 19:07:49,527 [INFO] [system DNS IPv4 8.8.8.8] chat.deepseek.com A → rcode=NOERROR, answer=2, auth=0, add=0, CNAME d3bbv8sr76az5s.cloudfront.net.; A 3.173.21.63
+2026-06-04 19:08:07,991 [INFO] [system DNS IPv4 8.8.8.8] www.google.com A → rcode=NOERROR, answer=8, auth=0, add=0, A 142.251.151.119; A 142.251.150.119; A 142.251.155.119; A 142.251.154.119 ...
+2026-06-04 19:08:07,991 [INFO] [system DNS IPv6 2001:4860:4860::8888] www.google.com AAAA → rcode=NOERROR, answer=8, auth=0, add=0, AAAA 2001:4860:4827:7700::; AAAA 2001:4860:4828:7700::; AAAA 2001:4860:482c:7700::; AAAA 2001:4860:482d:7700:: ...
+2026-06-04 19:08:08,731 [INFO] [system DNS IPv6 2001:4860:4860::8888] browser-intake-us3-datadoghq.com AAAA → rcode=NOERROR, answer=0, auth=1, add=0, no-answer
+2026-06-04 19:08:08,732 [INFO] [system DNS IPv4 8.8.8.8] browser-intake-us3-datadoghq.com A → rcode=NOERROR, answer=1, auth=0, add=0, A 68.220.41.20
+2026-06-04 19:08:16,249 [INFO] [system DNS IPv4 8.8.8.8] p2p-sto2.discovery.steamserver.net A → rcode=NOERROR, answer=3, auth=0, add=0, A 155.133.252.40; A 155.133.252.54; A 155.133.252.39
+2026-06-04 19:08:23,467 [INFO] [system DNS IPv4 8.8.8.8] help.arena.ai A → rcode=NOERROR, answer=5, auth=0, add=0, CNAME d14ojcav55j7ek.cloudfront.net.; A 18.165.140.10; A 18.165.140.29; A 18.165.140.85 ...
+2026-06-04 19:08:23,469 [INFO] [system DNS IPv6 2001:4860:4860::8888] help.arena.ai AAAA → rcode=NOERROR, answer=9, auth=0, add=0, CNAME d14ojcav55j7ek.cloudfront.net.; AAAA 2600:9000:25f7:ce00:12:671d:4f00:93a1; AAAA 2600:9000:25f7:5800:12:671d:4f00:93a1; AAAA 2600:9000:25f7:3c00:12:671d:4f00:93a1 ...
+2026-06-04 19:08:26,180 [INFO] [system DNS IPv4 8.8.8.8] clients4.google.com A → rcode=NOERROR, answer=7, auth=0, add=0, CNAME clients.l.google.com.; A 142.251.1.102; A 142.251.1.113; A 142.251.1.139 ...
+2026-06-04 19:08:26,180 [INFO] [system DNS IPv6 2001:4860:4860::8888] clients4.google.com AAAA → rcode=NOERROR, answer=5, auth=0, add=0, CNAME clients.l.google.com.; AAAA 2a00:1450:4010:c02::8b; AAAA 2a00:1450:4010:c02::8a; AAAA 2a00:1450:4010:c02::64 ...
+2026-06-04 19:08:31,738 [INFO] DNS-серверы остановлены
+2026-06-05 22:02:44,271 [INFO] DnsProcessTracker запущен
+2026-06-05 22:02:44,571 [INFO] DnsProcessTracker остановлен
+2026-06-05 22:16:16,799 [ERROR] Не удалось запустить: IPv4 127.0.0.1:52703 — порт 52703 уже занят другой программой (системный DNS-клиент, Pi-hole/AdGuard или второй экземпляр NetDocker)
+2026-06-05 22:26:35,664 [WARNING] [bogus] blocked.com A: системный DNS вернул 212.188.4.10 (похоже на провайдерскую заглушку), пробуем DoH/xbox-dns
+2026-06-05 22:26:35,664 [WARNING] [bogus] blocked.com A: оба upstream вернули фейковые IP (провайдерская подмена) → отвечаем NXDOMAIN
+2026-06-05 22:26:35,665 [WARNING] [bogus] blocked.com A: системный DNS вернул 212.188.4.10 (похоже на провайдерскую заглушку), пробуем DoH/xbox-dns
+2026-06-05 22:26:35,665 [INFO] [bogus] blocked.com A: через xbox-dns получили реальный ответ, используем его
+2026-06-05 22:26:35,665 [ERROR] Системный DNS не ответил для dead.com A; возвращаем SERVFAIL
+2026-06-05 22:26:44,094 [WARNING] xbox-dns UDP IPv4 111.88.96.55 не ответил для chatgpt.com A: udp down
+2026-06-05 22:26:44,094 [WARNING] xbox-dns UDP IPv4 176.99.11.77 не ответил для chatgpt.com A: udp down
+2026-06-05 22:26:44,094 [WARNING] xbox-dns UDP IPv6 2a00:ab00:1233:26::50 не ответил для chatgpt.com A: udp down
+2026-06-05 22:26:44,094 [WARNING] xbox-dns UDP IPv6 2a00:ab00:1233:26::51 не ответил для chatgpt.com A: udp down
+2026-06-05 22:26:44,094 [WARNING] UDP не дал ответа для chatgpt.com A, пробуем DoH
+2026-06-05 22:26:44,094 [INFO] [xbox-dns.ru DoH] chatgpt.com A → rcode=NOERROR, answer=1, auth=0, add=0, A 9.9.9.9
+2026-06-05 22:32:24,144 [INFO] [xbox-dns.ru DoT] chatgpt.com A → rcode=NOERROR, answer=1, auth=0, add=0, A 87.228.47.204
+2026-06-05 22:32:29,251 [INFO] [2f21134d5a9294b2] Connection close sent (code 0x0, reason )
+2026-06-05 22:32:29,853 [ERROR] Future exception was never retrieved
+future: <Future finished exception=ConnectionError()>
+ConnectionError
+2026-06-05 22:32:29,854 [ERROR] xbox-dns.ru DoQ не удался для chatgpt.com A: 
+2026-06-05 22:32:29,854 [WARNING] DOQ не дал ответа для chatgpt.com A, пробуем другие транспорты
+2026-06-05 22:32:30,552 [INFO] [xbox-dns.ru DoH] chatgpt.com A → rcode=NOERROR, answer=1, auth=0, add=1, A 87.228.47.204
+2026-06-05 22:32:30,552 [INFO] chatgpt.com A: ответ получен через fallback-транспорт DOH
+2026-06-05 22:33:03,610 [WARNING] DOQ не дал ответа для chatgpt.com A, пробуем другие транспорты
+2026-06-05 22:33:03,610 [INFO] chatgpt.com A: ответ получен через fallback-транспорт DOH
+2026-06-05 22:36:06,636 [INFO] config.json был нормализован и пересохранён
+2026-06-06 12:00:21,997 [WARNING] Провайдер «xbox-dns.ru» не ответил для chatgpt.com A, пробуем запасные провайдеры
+2026-06-06 12:00:21,997 [INFO] chatgpt.com A: основной провайдер недоступен, ответ получен через запасной «comss.one»
+2026-06-06 12:02:58,165 [INFO] config.json был нормализован и пересохранён
+2026-06-06 12:03:14,209 [INFO] [xbox-dns.ru DoH] chatgpt.com A → rcode=NOERROR, answer=1, auth=0, add=1, A 87.228.47.204
+2026-06-08 18:04:14,673 [INFO] Системный трей запущен
+2026-06-08 18:04:14,827 [INFO] Переключение режима DPI → off
+2026-06-08 18:04:14,828 [INFO] DPI-движок остановлен.
+2026-06-08 18:04:18,499 [INFO] Переключение режима DPI → combo
+2026-06-08 18:04:18,500 [ERROR] Библиотека pydivert не установлена. DPI-движок не может работать.
+2026-06-08 18:04:18,817 [INFO] Переключение режима DPI → zapret
+2026-06-08 18:04:18,818 [ERROR] Библиотека pydivert не установлена. DPI-движок не может работать.
+2026-06-08 18:04:19,215 [INFO] Переключение режима DPI → off
+2026-06-08 18:04:19,216 [INFO] DPI-движок остановлен.
+2026-06-08 18:04:19,500 [INFO] Переключение режима DPI → combo
+2026-06-08 18:04:19,501 [ERROR] Библиотека pydivert не установлена. DPI-движок не может работать.
+2026-06-08 18:04:19,767 [INFO] Переключение режима DPI → zapret
+2026-06-08 18:04:19,768 [ERROR] Библиотека pydivert не установлена. DPI-движок не может работать.
+2026-06-08 18:04:20,165 [INFO] Переключение режима DPI → off
+2026-06-08 18:04:20,166 [INFO] DPI-движок остановлен.
+2026-06-08 18:04:20,473 [INFO] Переключение режима DPI → combo
+2026-06-08 18:04:20,474 [ERROR] Библиотека pydivert не установлена. DPI-движок не может работать.
+2026-06-08 18:04:20,758 [INFO] Переключение режима DPI → zapret
+2026-06-08 18:04:20,759 [ERROR] Библиотека pydivert не установлена. DPI-движок не может работать.
+2026-06-08 18:04:21,433 [INFO] Переключение режима DPI → combo
+2026-06-08 18:04:21,434 [ERROR] Библиотека pydivert не установлена. DPI-движок не может работать.
+2026-06-08 18:04:21,771 [INFO] Переключение режима DPI → off
+2026-06-08 18:04:21,772 [INFO] DPI-движок остановлен.
+2026-06-08 18:09:13,460 [INFO] Системный трей остановлен
+2026-06-08 20:05:14,099 [INFO] Системный трей запущен
+2026-06-08 20:05:14,269 [INFO] Переключение режима DPI → off
+2026-06-08 20:05:14,270 [INFO] DPI-движок остановлен.
+2026-06-08 20:06:04,989 [INFO] Системный трей остановлен
+2026-06-08 20:23:54,858 [INFO] Системный трей запущен
+2026-06-08 20:23:55,013 [INFO] Переключение режима DPI → off
+2026-06-08 20:23:55,014 [INFO] DPI-движок остановлен.
